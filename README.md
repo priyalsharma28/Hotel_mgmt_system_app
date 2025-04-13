@@ -1,5 +1,5 @@
 # Hotel_mgmt_system_app
-**HotelHub** :  Hotel Management System
+**HotelHub** : 
 HotelHub is a comprehensive hotel management system developed using Django, a high-level Python web framework. This system is designed to streamline and automate various aspects of hotel operations, providing a centralized platform for efficient management.
 
 ## Features
